@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm @Dilettante</h1>
+<h1 align="center">Hi 👋, I'm @Dilettante258</h1>
 <h3 align="center">A undergraduate student in Data Science</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
