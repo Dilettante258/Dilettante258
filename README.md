@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm @Dilettante</h1>
 <h3 align="center">A undergraduate student in Data Science</h3>
 
-![Dilettante258's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilettante258&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dilettante258&show_icons=true&theme=radical&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilettante258&layout=compact" />
+</a>
+
 
 - 👀 I’m interested in RL, ML, DM
 
