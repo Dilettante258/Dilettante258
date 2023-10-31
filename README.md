@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm @Dilettante</h1>
 <h3 align="center">A undergraduate student in Data Science</h3>
+
 ![Dilettante258's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilettante258&show_icons=true&theme=radical)
+
 - 👀 I’m interested in RL, ML, DM
 
 - 🌱 I’m currently learning **Reinforment Learning**
