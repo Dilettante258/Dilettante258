@@ -35,15 +35,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 5 mins        ██████████████░░░░░░░░░░░   56.82 % 
-Jupyter                  1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -57,5 +48,5 @@ Stylus                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:37:10 UTC
+ Last Updated on 06/12/2023 18:37:52 UTC
 <!--END_SECTION:waka-->
