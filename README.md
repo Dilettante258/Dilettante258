@@ -21,8 +21,9 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilettante258&layout=compact" />
   </a>
 <p align="center">
+![](https://komarev.com/ghpvc/?username=Dilettante258)
 
-- 📄 My Resume [link](https://wang1m.cc)
+- 📄 My Resume is [here](https://wang1m.cc)
 
 - 👀 I’m interested in RL, ML, DM
 
