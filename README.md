@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 5 mins         █████████████████████████   99.90 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +64,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2024 18:36:35 UTC
+ Last Updated on 13/02/2024 18:37:25 UTC
 <!--END_SECTION:waka-->
