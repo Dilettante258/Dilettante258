@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
 <p align="center"> -->
 
-<img align="center" src="https://komarev.com/ghpvc/?username=Dilettante258" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Dilettante258" /><p />
 
 - 📄 My Resume is [here](https://wang1m.cc)
 
