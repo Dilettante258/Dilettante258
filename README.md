@@ -12,23 +12,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm @Dilettante258</h1>
-<h3 align="center">A undergraduate student in Data Science</h3>
-<p align="center">
+<h3 align="center" >A undergraduate student in Data Science</h3>
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilettante258&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilettante258&layout=compact" />
   </a>
-<p align="center">
+<p align="center"> -->
 
 <img align="center" src="https://komarev.com/ghpvc/?username=Dilettante258" />
 
 - 📄 My Resume is [here](https://wang1m.cc)
 
-- 👀 I’m interested in RL, ML, DM
+- 👀 I’m interested in RL, Web-Dev, ML, DM
 
-- 🌱 I’m currently learning **Reinforment Learning**
+- 🌱 I’m currently learning **Reinforment Learning**, Web-Dev
 
 - 📝 I regularly write articles on [浅尝辄止](https://www.dilettante258.cyou/)
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,astro,c,docker,flask,html,latex,linux,md,pytorch,tensorflow,selenium,cloudflare,vercel&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,astro,vue,js,ts,c,docker,pytorch,linux,flask,html,css,latex,md,selenium,cloudflare,netlify,vercel,matlab,ai,ps&perline=7&theme=light" />
   </a>
 <p align="center">
 
