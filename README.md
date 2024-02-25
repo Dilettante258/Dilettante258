@@ -53,15 +53,15 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Astro                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-MDX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Astro                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+MDX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
 
 
- Last Updated on 24/02/2024 18:36:30 UTC
+ Last Updated on 25/02/2024 18:36:12 UTC
 <!--END_SECTION:waka-->
