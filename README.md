@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   50 mins             █████████████████░░░░░░░░   66.33 % 
+CSV                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Jupyter                  9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +66,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2024 18:36:26 UTC
+ Last Updated on 27/02/2024 18:38:35 UTC
 <!--END_SECTION:waka-->
