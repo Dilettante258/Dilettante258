@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     55 mins             █████████████████████████   98.86 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +64,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2024 18:36:40 UTC
+ Last Updated on 10/05/2024 18:37:39 UTC
 <!--END_SECTION:waka-->
