@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C                        0 secs              ██████████████░░░░░░░░░░░   57.22 % 
-JSON                     0 secs              ███████████░░░░░░░░░░░░░░   42.78 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -64,5 +63,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2024 18:38:35 UTC
+ Last Updated on 06/06/2024 18:38:42 UTC
 <!--END_SECTION:waka-->
