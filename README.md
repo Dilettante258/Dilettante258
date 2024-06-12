@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,5 +63,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2024 18:39:52 UTC
+ Last Updated on 12/06/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
