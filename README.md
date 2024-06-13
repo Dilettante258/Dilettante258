@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 29 mins        █████████████████████████   100.00 % 
+C++                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,5 +63,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2024 18:39:12 UTC
+ Last Updated on 13/06/2024 18:39:40 UTC
 <!--END_SECTION:waka-->
