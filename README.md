@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
 <p align="center"> -->
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Dilettante258" /><p />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Dilettante258" /><br /><a href="https://wakatime.com/@018b8500-f033-47a0-93a2-83a68470fe74"><img src="https://wakatime.com/badge/user/018b8500-f033-47a0-93a2-83a68470fe74.svg" alt="Total time coded since Oct 31 2023" /></a><p />
 
 - 📄 My Resume is [here](https://wang1m.cc)
 
