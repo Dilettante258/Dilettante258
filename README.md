@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,astro,vue,js,ts,vercel,flask,docker,linux,cloudflare,html,css,netlify,latex,md,selenium,pytorch,matlab,ai,ps,cpp,c,java&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,astro,vue,js,ts,vercel,flask,docker,linux,cloudflare,html,css,netlify,latex,md,selenium,pytorch,matlab,ai,ps,cpp,c,python,java&perline=7&theme=light" />
   </a>
 <p align="center">
 
