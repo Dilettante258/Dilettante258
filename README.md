@@ -47,10 +47,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 mins             ██████████████████████░░░   87.89 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,5 +63,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2024 18:40:57 UTC
+ Last Updated on 22/09/2024 18:40:51 UTC
 <!--END_SECTION:waka-->
