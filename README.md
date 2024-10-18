@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,5 +63,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2024 18:44:22 UTC
+ Last Updated on 18/10/2024 18:44:19 UTC
 <!--END_SECTION:waka-->
