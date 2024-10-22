@@ -43,13 +43,6 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C                        25 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -63,5 +56,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 18:44:49 UTC
+ Last Updated on 22/10/2024 18:44:18 UTC
 <!--END_SECTION:waka-->
