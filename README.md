@@ -47,9 +47,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 mins             ███████████████████░░░░░░   75.82 % 
-Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,5 +63,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2024 18:46:32 UTC
+ Last Updated on 23/11/2024 18:42:40 UTC
 <!--END_SECTION:waka-->
