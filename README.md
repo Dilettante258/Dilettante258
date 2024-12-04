@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Makefile                 42 mins             ██████████████░░░░░░░░░░░   54.31 % 
+C                        33 mins             ███████████░░░░░░░░░░░░░░   42.45 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,5 +65,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2024 18:45:53 UTC
+ Last Updated on 04/12/2024 18:48:21 UTC
 <!--END_SECTION:waka-->
