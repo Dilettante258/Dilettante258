@@ -43,17 +43,6 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               23 hrs 33 mins      █████████████████████░░░░   83.26 % 
-JavaScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -67,5 +56,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:43:18 UTC
+ Last Updated on 15/02/2025 18:40:22 UTC
 <!--END_SECTION:waka-->
